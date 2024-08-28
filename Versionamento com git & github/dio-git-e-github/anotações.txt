@@ -1,0 +1,9 @@
+1. git config (open git options)
+2. Ctrl + L (clean)
+3. git config --global user.name "name" (set a username with the global options for git)
+4. git config --global user.email "email@gmail.com" (set a email with the global options for git)
+5. git config init.defaultBranch (show the default branch name of the diretory)
+6. git config --global init.defaultBranch name_you_want (change the default branch name with teh global parameters)
+7. git config --global --list (show the list of something)
+
+git documentation: https://git-scm.com/docs/git-config
